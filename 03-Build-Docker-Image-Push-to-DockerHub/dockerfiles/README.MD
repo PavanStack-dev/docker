@@ -183,15 +183,7 @@ docker push stacksimplify/mynginx-custom:v1
 
 ---
 
-## Step 9: Explore Docker Hub Web Interface
-
-- Visit [Docker Hub](https://hub.docker.com/).
-- Search for Docker images.
-- Use filters to refine your search results.
-
----
-
-## Step 10: Use Docker Search Command
+## Step 9: Use Docker Search Command
 
 ```bash
 # Search for 'nginx' images
